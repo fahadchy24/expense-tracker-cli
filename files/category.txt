@@ -1,0 +1,13 @@
+--------------------------------
+
+Name: Salary, Type: Income
+Name: Business, Type: Income
+Name: Loan, Type: Income
+Name: Rent, Type: Expense
+Name: Salary, Type: Income
+Name: Family, Type: Expense
+Name: Recreation, Type: Expense
+Name: Sadakah, Type: Expense
+Name: Food, Type: Expense
+
+--------------------------------
